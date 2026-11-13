@@ -11,8 +11,8 @@
 - Mã đề (A/B/C): A
 - Email: 26ai.tungns2@vinuni.edu.vn
 - Link repository: https://github.com/sontung-aithucchien/K5-L2-DAY05-NguyenSonTung-2A202603053-MOTTracking
-- Giờ bắt đầu: Điền sau
-- Giờ kết thúc: Điền sau
+- Giờ bắt đầu: 16:30 13/11/2026
+- Giờ kết thúc: 19:30 13/11/2026
 
 ## 1. Xem trước đoạn video (CP0)
 
@@ -156,4 +156,8 @@ Tổng CVAT: 189 keyframe / 615 frame có mặt = 30.7 keyframe / 100 frame.
 
 ## 7. Tài liệu tham khảo và công cụ AI đã dùng
 
-...
+### Công cụ AI đã dùng
+
+- Copilot SDK in VS Code.
+- Mục đích sử dụng: Hỗ trợ diễn đạt và rà soát nội dung báo cáo, giải thích các chỉ số MOT và gợi ý cách trình bày quá trình tự kiểm tra.
+
